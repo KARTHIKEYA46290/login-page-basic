@@ -59,6 +59,18 @@ Flutter: For building the UI.
 
 Dart: Programming language for Flutter.
 
+## 📸 Screenshots:
+
+![Screenshot 2024-06-05 111955](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/482d5443-e22d-474f-8fed-c7ade147038b)
+
+With Validations:
+![Screenshot 2024-06-05 112128](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/cb7214b8-233e-4c18-a272-7a0003d6e4d9)
+
+Full Screen:
+
+![Screenshot 2024-06-05 113252](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/95aa7064-12e8-4c6a-87f3-1f37df333555)
+
+
 ## 📞 Contact
 For any questions or feedback, feel free to reach out:
 
@@ -74,13 +86,3 @@ The project is purely frontend and does not include any backend integration.
 
 Suitable for understanding the basics of Flutter form handling and validation.
 
-## 📸 Screenshots:
-
-![Screenshot 2024-06-05 111955](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/482d5443-e22d-474f-8fed-c7ade147038b)
-
-With Validations:
-![Screenshot 2024-06-05 112128](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/cb7214b8-233e-4c18-a272-7a0003d6e4d9)
-
-Full Screen:
-
-![Screenshot 2024-06-05 113252](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/95aa7064-12e8-4c6a-87f3-1f37df333555)

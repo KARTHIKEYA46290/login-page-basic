@@ -26,19 +26,19 @@ Clean Code: The project adheres to best practices in Flutter for form and valida
 -💻 Usage
 To run this project, follow these steps:
 
-1. Clone the repository:
-   ```bash
+ Clone the repository:
+    ```bash
      git clone https://github.com/KARTHIKEYA46290/login-page-basic.git
     ```
-2. Navigate to the project directory:
+Navigate to the project directory:
   ```bash
     cd login-page-basic
    ```
-3. Install the dependencies:
+ Install the dependencies:
   ```bash
    flutter pub get
    ```
-4. Run the app:
+ Run the app:
   ```bash
    flutter run
    ```

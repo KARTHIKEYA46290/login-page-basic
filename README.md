@@ -28,11 +28,11 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/KARTHIKEYA46290/login-page-basic.git
     ```
 2. Navigate to the project directory:
   ```bash
-    cd your-repo
+    cd login-page-basic
    ```
 3. Install the dependencies:
   ```bash

@@ -50,5 +50,4 @@ With Validations:
 
 Full Screen:
 
-![Screenshot 2024-06-05 113031](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/85a64d76-6a61-4b76-9b5a-3e94e30b8c02)
-
+![Screenshot 2024-06-05 113252](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/95aa7064-12e8-4c6a-87f3-1f37df333555)

@@ -26,16 +26,37 @@ Clean Code: The project adheres to best practices in Flutter for form and valida
 -💻 Usage
 To run this project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
-2. Navigate to the project directory: cd your-repo
-3. Install the dependencies: flutter pub get
-4. Run the app: flutter run
+1. Clone the repository:
+   ```bash
+     git clone https://github.com/your-username/your-repo.git
+    ```
+2. Navigate to the project directory:
+  ```bash
+    cd your-repo
+   ```
+3. Install the dependencies:
+  ```bash
+   flutter pub get
+   ```
+4. Run the app:
+  ```bash
+   flutter run
+   ```
 
 -🛠️ Technologies Used
 
 Flutter: For building the UI.
 
 Dart: Programming language for Flutter.
+
+-📞 Contact
+For any questions or feedback, feel free to reach out:
+
+Email: karthikeyabatttula2005@gmail.com
+
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karthikeya-battula-46290pr/)
+
+GitHub: [Your GitHub](https://github.com/KARTHIKEYA46290)
 
 -📝 Additional Information
 

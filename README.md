@@ -48,3 +48,7 @@ Suitable for understanding the basics of Flutter form handling and validation.
 With Validations:
 ![Screenshot 2024-06-05 112128](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/cb7214b8-233e-4c18-a272-7a0003d6e4d9)
 
+Full Screen:
+
+![Screenshot 2024-06-05 113031](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/85a64d76-6a61-4b76-9b5a-3e94e30b8c02)
+

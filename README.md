@@ -3,7 +3,8 @@ Welcome to my first Flutter project! This is a basic UI/UX of a login page with 
 Here are some highlights of this project:
 
 # Table of Contents
-2. [Features](#ResponsiveDesign)
+1. [Design](#Design)
+2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
 7. [Contact](#contact)

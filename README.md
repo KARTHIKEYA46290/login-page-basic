@@ -71,6 +71,12 @@ Full Screen:
 ![Screenshot 2024-06-05 113252](https://github.com/KARTHIKEYA46290/login-page-basic/assets/171713398/95aa7064-12e8-4c6a-87f3-1f37df333555)
 
 
+## 📝 Additional Information
+
+The project is purely frontend and does not include any backend integration.
+
+Suitable for understanding the basics of Flutter form handling and validation.
+
 ## 📞 Contact
 For any questions or feedback, feel free to reach out:
 
@@ -79,10 +85,3 @@ Email: karthikeyabatttula2005@gmail.com
 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karthikeya-battula-46290pr/)
 
 GitHub: [Your GitHub](https://github.com/KARTHIKEYA46290)
-
-## 📝 Additional Information
-
-The project is purely frontend and does not include any backend integration.
-
-Suitable for understanding the basics of Flutter form handling and validation.
-

@@ -27,9 +27,10 @@ Clean Code: The project adheres to best practices in Flutter for form and valida
 To run this project, follow these steps:
 
 Clone the repository:
-    ```bash
-     git clone https://github.com/KARTHIKEYA46290/login-page-basic.git
-    ```
+``` bash
+git clone https://github.com/KARTHIKEYA46290/login-page-basic.git
+```
+    
 Navigate to the project directory:
   ```bash
     cd login-page-basic

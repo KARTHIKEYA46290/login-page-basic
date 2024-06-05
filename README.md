@@ -1,4 +1,6 @@
-Welcome to my first Flutter project! This is a basic UI/UX of a login page with validations. Here are some highlights of this project:
+Welcome to my first Flutter project! This is a basic UI/UX of a login page with validations.
+
+Here are some highlights of this project:
 
 ## 📱 Responsive Design
 The page is designed to resize accurately to various screen sizes.

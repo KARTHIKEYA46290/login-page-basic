@@ -82,6 +82,6 @@ For any questions or feedback, feel free to reach out:
 
 Email: karthikeyabatttula2005@gmail.com
 
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karthikeya-battula-46290pr/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/karthikeya-battula-46290pr/)
 
-GitHub: [Your GitHub](https://github.com/KARTHIKEYA46290)
+GitHub: [GitHub](https://github.com/KARTHIKEYA46290)
